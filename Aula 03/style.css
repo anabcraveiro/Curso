@@ -1,0 +1,17 @@
+:root {
+  --primary-color: #2f80ed;
+  --secondary-color: #847c7c;
+  --bg-color: #f7f7f7;
+  --white-color: #ffffff;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-family: "Montsserat", sans-serif;
+  height: 100%;
+}
